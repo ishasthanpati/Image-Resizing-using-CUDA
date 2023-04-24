@@ -1,3 +1,4 @@
-# Image-Resizing-using-CUDA
-This project resizes a PGM image of any dimension to half of its size and save it as a new image. 
-This project is done using CUDA in C
+# Image-Resizing-in-CUDA
+This project resizes a PGM image of any dimension into half of its original size. 
+The output is saved as another PGM image. 
+This project is written using CUDA
